@@ -127,10 +127,6 @@ TCP/IP | Active Directory | Network Security
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fazeela03&show_icons=true&theme=github_dark" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=fazeela03&theme=github-dark&border_radius=5" />
 </p>
 
