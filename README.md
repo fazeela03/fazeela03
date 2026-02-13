@@ -131,7 +131,7 @@ TCP/IP | Active Directory | Network Security
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=default" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fazeela03&theme=default" />
 </p>
 
 ---
