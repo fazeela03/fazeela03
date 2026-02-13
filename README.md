@@ -147,7 +147,6 @@ Germany 🇩🇪 | Australia 🇦🇺 | New Zealand 🇳🇿 | UAE 🇦🇪 | Qa
 ## 📫 Connect With Me
 
 - 📧 Email: Fazeelajamal03@gmail.com  
-- 💼 LinkedIn: (Add your LinkedIn link here)
 
 ---
 
