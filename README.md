@@ -137,7 +137,7 @@ TCP/IP | Active Directory | Network Security
 
 Open to relocation for cybersecurity, GRC, SOC leadership, or consulting roles in:
 
-Germany 🇩🇪 | Australia 🇦🇺 | New Zealand 🇳🇿 | UAE 🇦🇪 | Qatar 🇶🇦 | Europe 🌍
+Germany 🇩🇪 | Australia 🇦🇺 | New Zealand 🇳🇿 | UAE 🇦🇪 | Qatar 🇶🇦 | Europe 🇪🇺
 
 ---
 
